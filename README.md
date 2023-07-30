@@ -10,10 +10,10 @@
 <hr>
 
 <h2> Features 🚀 </h2>
-<h3> Utilizes a state-of-the-art deep learning architecture powered by TensorFlow for accurate predictions.<br>
-Incorporates NLTK for natural language processing, enabling effective text analysis and feature extraction.<br>
-Leverages Regular Expressions (RE) to preprocess and clean text data, improving model performance.<br>
-Can be integrated into web applications, browser extensions, or other projects for wider usage.</h3>
+<h4> <ul><li>Utilizes a state-of-the-art deep learning architecture powered by TensorFlow for accurate predictions.</li><br>
+<li>Incorporates NLTK for natural language processing, enabling effective text analysis and feature extraction.</li><br>
+<li>Leverages Regular Expressions (RE) to preprocess and clean text data, improving model performance.</li><br>
+<li>Can be integrated into web applications, browser extensions, or other projects for wider usage.</li></ul></h4>
 <hr>
 
 <h2> Used Tech Stacks👨‍💻 </h2>
